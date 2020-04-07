@@ -1,3 +1,1 @@
-let num: number = 123;
-
-document.title = 'Ts Test';
+import './example/basic-type'
